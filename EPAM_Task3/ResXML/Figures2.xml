@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Figures>
+  <CirclePellicle>
+    <Radius>7</Radius>
+  </CirclePellicle>
+  <RectanglePellicle>
+    <Sides>3 7</Sides>
+  </RectanglePellicle>
+</Figures>

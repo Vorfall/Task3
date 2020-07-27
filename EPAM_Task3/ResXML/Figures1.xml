@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Figures>
+  <RectanglePaper>
+    <Sides>3 6</Sides>
+    <Color>Black</Color>
+  </RectanglePaper>
+  <TrianglePaper>
+    <Sides>1 2 3</Sides>
+    <Color>Blue</Color>
+  </TrianglePaper>
+  <CirclePellicle>
+    <Radius>9</Radius>
+  </CirclePellicle>
+  <RectanglePellicle>
+    <Sides>7 8</Sides>
+  </RectanglePellicle>
+</Figures>
